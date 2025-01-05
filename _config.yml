@@ -1,5 +1,6 @@
 title: Sol Gago
-logo: img/222-Photoroom.jpg
+baseurl: "/portafolio"
+logo: "{{ site.baseurl }}/img/222-Photoroom.jpg"
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
