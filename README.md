@@ -1,5 +1,4 @@
 # Desarrolladora Web
-![Logo](img/222-Photoroom.jpg)
 #### Habilidades técnicas: HTML, CSS, Javascript, React
 
 ## Educación
