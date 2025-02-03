@@ -1,5 +1,3 @@
-<img src="/portfolio/img/222-Photoroom.jpg" width="200px" height="200px">
-
 # Desarrolladora Web
 #### Habilidades técnicas: HTML, CSS, Javascript, React
 
